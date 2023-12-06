@@ -15,9 +15,9 @@ Si lo deseas puedes hacer deployment de este repositorio en tu cuenta de Render:
 1) Crea una cuenta en [Render](https://render.com/) e inicia sesión.
 2) Una vez iniciada la sesión, ve a la página de "Dashboard", y luego ubica el apartado de "Web Services" y haz click en el botón "New Web Service".
 3) En la siguiente pantalla de "Create a New Service", utiliza la segunda opción "Public Web Repository", coloca en la casilla la url del repo de github (https://github.com/JoseMiguelVazquez/json-server-jwt) y haz click en el botón "Continue".
-4) En la siguiente pantalla de "You are deploying a web service for warderer/json-server-jwt" deberás rellenar la siguiente información:
+4) En la siguiente pantalla de "You are deploying a web service for JoseMiguelVazquez/json-server-jwt" deberás rellenar la siguiente información:
    - **Name:** Nombre del proyecto, sin espacios ni carácteres especiales. Debe ser único ya que la url se generará a partir de esto.
-   - **Region:** Ubicación físical del servidor. Elije el más cercano a tu ubicación o deja el valor por defecto.
+   - **Region:** Ubicación física del servidor. Elije el más cercano a tu ubicación o deja el valor por defecto.
    - **Branch:** Debe estar en main.
    - **Runtime:** Elige Node.
    - **Build Command:** Escribe: npm install
