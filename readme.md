@@ -1,3 +1,5 @@
+#Este Proyecto fue creado y bifurcado del proyecto de: https://github.com/warderer/json-server-jwt
+
 # Mock de API con Autenticación usando JWT
 
 El objetivo es crear un mock de una API Rest de eCommerce que haga uso de autenticación con JWT y cuente con algunas rutas protegidas.
